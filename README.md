@@ -16,7 +16,7 @@ I am a graduate software developer helping to build products and tools for struc
 ## Experience
 
 ### **Graduate Software Developer**
-### Oasys 
+#### Oasys Software , Arup
 
 <p>Worked on continuous improvement of Oasys' Structural products- AdSec and GSA, which includes feature developements, bug fixes, testing and customer support</p>
 <br>
@@ -34,7 +34,7 @@ I am a graduate software developer helping to build products and tools for struc
 
 
 ### **Intern**
-### Memaar Building Systems FZC 
+#### Memaar Building Systems FZC 
 
 Analysis of steel PEB in STAADpro
 
@@ -53,6 +53,6 @@ GPA 7.92
 
 ---
 
-### Interests
+## Interests
 Toastmasters, Yoga, Mental health
 
