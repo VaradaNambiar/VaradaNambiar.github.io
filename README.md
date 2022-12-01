@@ -30,7 +30,7 @@ I am a graduate software developer helping to build products and tools for struc
   <li> Read and write an adsec file into API thus support interoperability between the main application and programmatic API computation 
   <li> API was made to reference OasysUnits package which required tweaks to oasys generator in addition to API implementation
   <li> Brief stint with VueJS on generating preload table for Staged Analysis feature 
-
+</ul>
 
 
 ### **Intern**
