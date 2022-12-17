@@ -1,7 +1,11 @@
-title: Varada Nambiar
-logo: "/profile.png?raw=true"
-description: Software Developer || Structural Engineer
-<a href = "https://theinterviewportal.com/2021/12/18/structural-engineering-software-professional-interview/"> Full Story </a> 
-
-
-theme: minima
+title: Aashima Ahuja # your name (or website title) here
+logo: "/profile.png?raw=true" # your photo (or logo) here
+description: > # your text below (remove <br> elements if you don't need line breaks)
+ Senior Frontend Engineer
+  <br><br>
+  <a href="mailto:aashima.ahuja811@gmail.com">aashima.ahuja811@gmail.com </a>
+  <br>
+  <a href="https://www.linkedin.com/in/aashimaahuja/">LinkedIn Profile</a>
+  <br>
+  <a href="https://www.gihub.com/aashimaahuja/">Gihub</a> 
+theme: jekyll-theme-minimal
