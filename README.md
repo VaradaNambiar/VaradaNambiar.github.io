@@ -51,7 +51,7 @@ Structural engineering
 - Enhanced UI responsiveness by optimizing the analysis process, implementing multithreading to concurrently analyze packs of load cases.
   - Significantly reduced processing time, enabling quicker task completion and a more seamless user experience.
 - Implemented seamless interoperability between .ads file and API, addressing a critical disconnect issue.
-- Developed a robust parser to read and write adsec files (JSON), enabling efficient manipulation of sections and materials programmatically using the API.
+  - Developed a robust parser to read and write adsec files (JSON), enabling efficient manipulation of sections and materials programmatically using the API.
   - Resulted in enhanced user experience as users could effortlessly input file paths into their scripts, extract section data, perform modifications, and write final results back into the original file.
 - API was made to reference OasysUnits package which required tweaks to Oasys generator in addition to API implementation
 - Brief stint with VueJS on generating preload table for Staged Analysis feature
