@@ -14,9 +14,21 @@ Results-driven graduate software developer with a unique blend of structural eng
 ---
 
 ## Experience
-### **Software Developer**
-
-### **Graduate Software Developer**
+### **Software Developer** - Apr'23 to present
+<ul>
+<li>
+Designed and developed a custom output feature within GSA software, empowering users to generate tailored result tables directly within the application interface. 
+<ul>
+<li>This eliminated the need to export data to Excel for manual table creation. 
+<li>Presented various implementation design options to enhance existing codebase, then successfully implemented and rigorously tested the feature to ensure seamless integration and user satisfaction.
+<li> Expose the feature into COM API
+<li> Add documentation for users
+</ul>
+<li> Update MFC UI wizard to include fields for new backend feature. 
+<ul><li> Added buttons, comboboxes, edit fields
+<li> Linked the user input to existing backend objects
+</ul>
+### **Graduate Software Developer** - June'21 to March'23
 #### Oasys Software , Arup
 <p>GSA:
 <ul>
@@ -60,5 +72,3 @@ GPA 7.92
 
 ## Interests
 Toastmasters, Yoga, Mental health
-
-
